@@ -224,6 +224,7 @@ button:hover {
 button:active {
   background-color: #545050;
   border-radius: 0%;
+  text-decoration: none;
 }
 
 button:focus-visible {
@@ -295,6 +296,7 @@ button:focus-visible {
 
 .content__card-link:active {
   background-color: #545050;
+  text-decoration: none;
 }
 
 .content__card-link:hover {
